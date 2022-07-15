@@ -1,0 +1,1 @@
+É nessa pasta que ficam as chaves pública e privada, para obtê-las deve-se executar a função generateKeys() , que se encontra na linha 17 do arquivo server.py . Somente necessário para o servidor, o cliente receber a chave posteriormente.
